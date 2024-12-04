@@ -10,6 +10,6 @@
       "directory": "com.mechanicgames.fork.pathcreator"
     },
     "publishConfig": {
-      "registry": "https://npm.pkg.github.com/MechanicGames"
+      "registry": "https://npm.pkg.github.com/@MechanicGames"
     }
 }
